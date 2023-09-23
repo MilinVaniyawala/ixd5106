@@ -13,6 +13,6 @@ A repo that stores files and folders regarding **IXD 5106**. However, here IXD 5
 
 #### Sample Figma Design
 
-![Landing Page](/_readme/Landing%20Page.pdf)
+![Landing Page](/_readme/landing_page.jpg)
 
 > :memo: **Note:** Above design is only sample of landing page which is done through Figma.
